@@ -1,0 +1,37 @@
+#swiss_redesign_input {
+    overflow: hidden;
+	width: 65%;
+}
+#sr_full_textarea {
+    overflow: hidden;
+	width: 100%;
+} 
+#swiss_redesign_input p {
+    clear: both;
+}
+.swiss_redesign_label {
+    display: block;
+    float: left;
+    width: 30%;
+	font-weight: bold;
+}
+.swiss_redesign_interactionlabel {
+    display: block;
+    float: left;
+    width: 100%;
+	font-weight: bold;
+}
+#wp-_wp_editor_firmeninfos-wrap {
+    overflow: hidden;
+	width: 65%;
+}	
+#meta-image-button {
+	vertical-align: top;
+}	
+#postdivrich.postarea.wp-editor-expand {
+	display: none;
+}
+hr {
+    margin-left: -12px;
+    margin-right: -12px;
+}

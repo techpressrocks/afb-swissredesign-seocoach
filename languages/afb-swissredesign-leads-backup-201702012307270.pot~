@@ -1,0 +1,412 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 22:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: afb-swissredesign-leads.php:49
+msgid "swissredesign.ch - Leads"
+msgstr ""
+
+#: afb-swissredesign-leads.php:50
+msgid "Lead"
+msgstr ""
+
+#: afb-swissredesign-leads.php:51
+msgid "Add New"
+msgstr ""
+
+#: afb-swissredesign-leads.php:52
+msgid "Add New Lead"
+msgstr ""
+
+#: afb-swissredesign-leads.php:53
+msgid "Edit"
+msgstr ""
+
+#: afb-swissredesign-leads.php:54
+msgid "Edit Lead"
+msgstr ""
+
+#: afb-swissredesign-leads.php:55
+msgid "New Lead"
+msgstr ""
+
+#: afb-swissredesign-leads.php:56
+msgid "View"
+msgstr ""
+
+#: afb-swissredesign-leads.php:57
+msgid "View Lead"
+msgstr ""
+
+#: afb-swissredesign-leads.php:58
+msgid "Search Leads"
+msgstr ""
+
+#: afb-swissredesign-leads.php:59
+msgid "No Leads found"
+msgstr ""
+
+#: afb-swissredesign-leads.php:60
+msgid "No Leads found in Trash"
+msgstr ""
+
+#: afb-swissredesign-leads.php:61
+msgid "Parent Lead"
+msgstr ""
+
+#: afb-swissredesign-leads.php:82
+msgid "Lead Category"
+msgstr ""
+
+#: afb-swissredesign-leads.php:83
+msgid "Add New Lead Category"
+msgstr ""
+
+#: afb-swissredesign-leads.php:84
+msgid "New Lead Category"
+msgstr ""
+
+#: afb-swissredesign-leads.php:94
+msgid "swissredesign.ch - Firma - Basisinformationen"
+msgstr ""
+
+#: afb-swissredesign-leads.php:95
+msgid "swissredesign.ch - Detaillierte Firmeninfos"
+msgstr ""
+
+#: afb-swissredesign-leads.php:96
+msgid "swissredesign.ch - Design Brief"
+msgstr ""
+
+#: afb-swissredesign-leads.php:97
+msgid "swissredesign.ch - Redesign Ziele/Funktionalität"
+msgstr ""
+
+#: afb-swissredesign-leads.php:98
+msgid "swissredesign.ch - Kundenkontakte"
+msgstr ""
+
+#: afb-swissredesign-leads.php:99
+msgid "swissredesign.ch - Projekt"
+msgstr ""
+
+#: afb-swissredesign-leads.php:114
+msgid "Website-Adresse "
+msgstr ""
+
+#: afb-swissredesign-leads.php:118
+msgid "Adresse "
+msgstr ""
+
+#: afb-swissredesign-leads.php:122
+msgid "Telefon "
+msgstr ""
+
+#: afb-swissredesign-leads.php:126
+msgid "Email-Adresse "
+msgstr ""
+
+#: afb-swissredesign-leads.php:148
+msgid "Kontaktperson"
+msgstr ""
+
+#: afb-swissredesign-leads.php:152
+msgid "Firmenzweck (Branche, Produkte, Dienstleistungen)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:156
+msgid "Alter der Firma"
+msgstr ""
+
+#: afb-swissredesign-leads.php:160
+msgid "Anzahl Mitarbeiter "
+msgstr ""
+
+#: afb-swissredesign-leads.php:164
+msgid "Jahresumsatz"
+msgstr ""
+
+#: afb-swissredesign-leads.php:168
+msgid "Firmenziele (kurz- und langfristig)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:172
+msgid "Weitere Firmeninfos (z.B. Links)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:223
+msgid "Bisheriger Designstil (in Stichworten)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:226
+msgid "Designstil für Redesign"
+msgstr ""
+
+#: afb-swissredesign-leads.php:232
+msgid "Sachlich"
+msgstr ""
+
+#: afb-swissredesign-leads.php:236
+msgid "Branchenüblich"
+msgstr ""
+
+#: afb-swissredesign-leads.php:240
+msgid "Herausragend"
+msgstr ""
+
+#: afb-swissredesign-leads.php:244
+msgid "Bodenständig"
+msgstr ""
+
+#: afb-swissredesign-leads.php:248
+msgid "Multimedial"
+msgstr ""
+
+#: afb-swissredesign-leads.php:252
+msgid "Emotionial"
+msgstr ""
+
+#: afb-swissredesign-leads.php:256
+msgid "Modern"
+msgstr ""
+
+#: afb-swissredesign-leads.php:262
+msgid "Lieblich"
+msgstr ""
+
+#: afb-swissredesign-leads.php:266
+msgid "Fotografisch"
+msgstr ""
+
+#: afb-swissredesign-leads.php:270
+msgid "Klassisch"
+msgstr ""
+
+#: afb-swissredesign-leads.php:274
+msgid "Verspielt"
+msgstr ""
+
+#: afb-swissredesign-leads.php:278
+msgid "Progressiv"
+msgstr ""
+
+#: afb-swissredesign-leads.php:282
+msgid "Neutral"
+msgstr ""
+
+#: afb-swissredesign-leads.php:286
+msgid "Männlich"
+msgstr ""
+
+#: afb-swissredesign-leads.php:290
+msgid "Traditionell"
+msgstr ""
+
+#: afb-swissredesign-leads.php:296
+msgid "Bunt"
+msgstr ""
+
+#: afb-swissredesign-leads.php:300
+msgid "Weiblich"
+msgstr ""
+
+#: afb-swissredesign-leads.php:304
+msgid "Zeitgemäss"
+msgstr ""
+
+#: afb-swissredesign-leads.php:308
+msgid "Farbig"
+msgstr ""
+
+#: afb-swissredesign-leads.php:312
+msgid "Seriös"
+msgstr ""
+
+#: afb-swissredesign-leads.php:316
+msgid "Grafisch"
+msgstr ""
+
+#: afb-swissredesign-leads.php:320
+msgid "S/W"
+msgstr ""
+
+#: afb-swissredesign-leads.php:324
+msgid "Freundlich"
+msgstr ""
+
+#: afb-swissredesign-leads.php:328
+msgid "Flat (flach)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:334
+msgid "Farbkräftig"
+msgstr ""
+
+#: afb-swissredesign-leads.php:338
+msgid "Exklusiv"
+msgstr ""
+
+#: afb-swissredesign-leads.php:342
+msgid "Illustrativ"
+msgstr ""
+
+#: afb-swissredesign-leads.php:346
+msgid "Kühl"
+msgstr ""
+
+#: afb-swissredesign-leads.php:350
+msgid "Primäre Firmenfarbe"
+msgstr ""
+
+#: afb-swissredesign-leads.php:354
+msgid "Sekundäre Firmenfarbe"
+msgstr ""
+
+#: afb-swissredesign-leads.php:359
+msgid "Kundenlogo (falls vorhanden)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:362
+msgid "Logo-Datei raufladen"
+msgstr ""
+
+#: afb-swissredesign-leads.php:369
+msgid "Primäre Ziele des Redesigns"
+msgstr ""
+
+#: afb-swissredesign-leads.php:374
+msgid "Mehr Kundenkontakte (Lead Generation)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:380
+msgid "Direkter Verkauf (E-Commerce mit WooCommerce)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:386
+msgid "Kunden-Support (z.B. mit FAQ, Support-Chat usw.)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:392
+msgid "Generell Auffrischung des Web-Auftritts"
+msgstr ""
+
+#: afb-swissredesign-leads.php:398
+msgid "Andere Ziele"
+msgstr ""
+
+#: afb-swissredesign-leads.php:404
+msgid "Funktionalität & Bestandteile"
+msgstr ""
+
+#: afb-swissredesign-leads.php:409
+msgid "Fotos (Bildmaterial)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:415
+msgid "Kontaktform"
+msgstr ""
+
+#: afb-swissredesign-leads.php:421
+msgid "E-Commerce (WooCommerce)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:427
+msgid "Call-to-Action (Handlungsaufforderungen)"
+msgstr ""
+
+#: afb-swissredesign-leads.php:433
+msgid "Suchfunktion"
+msgstr ""
+
+#: afb-swissredesign-leads.php:439
+msgid "Einbindung Soziale Medien"
+msgstr ""
+
+#: afb-swissredesign-leads.php:445
+msgid "Blog- oder News-Bereich"
+msgstr ""
+
+#: afb-swissredesign-leads.php:451
+msgid "Sitemap"
+msgstr ""
+
+#: afb-swissredesign-leads.php:469
+msgid "Datum"
+msgstr ""
+
+#: afb-swissredesign-leads.php:470
+msgid "Gesprächsnotiz"
+msgstr ""
+
+#: afb-swissredesign-leads.php:509
+msgid "Weitere Notiz hinzufügen"
+msgstr ""
+
+#: afb-swissredesign-leads.php:529
+msgid "Startdatum"
+msgstr ""
+
+#: afb-swissredesign-leads.php:534
+msgid "Projeziertes Enddatum"
+msgstr ""
+
+#: afb-swissredesign-leads.php:539
+msgid "Tatsächliches Enddatum"
+msgstr ""
+
+#: afb-swissredesign-leads.php:551
+msgid "Projektstatus"
+msgstr ""
+
+#: afb-swissredesign-leads.php:563
+msgid "Projektfortschritt"
+msgstr ""
+
+#: afb-swissredesign-leads.php:565 afb-swissredesign-leads.php:582
+msgid "Nicht gesetzt"
+msgstr ""
+
+#: afb-swissredesign-leads.php:580
+msgid "Projektpriorität"
+msgstr ""
+
+#: afb-swissredesign-leads.php:583
+msgid "Niedrig"
+msgstr ""
+
+#: afb-swissredesign-leads.php:584
+msgid "Normal"
+msgstr ""
+
+#: afb-swissredesign-leads.php:585
+msgid "Hoch"
+msgstr ""
+
+#. Name of the plugin
+msgid "AFB swissredesign.ch Leads"
+msgstr ""
+
+#. Description of the plugin
+msgid "swissredesign.ch Leads Info"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://swissredesign.ch/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andrew F. Burton"
+msgstr ""
